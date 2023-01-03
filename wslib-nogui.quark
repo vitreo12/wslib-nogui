@@ -1,7 +1,7 @@
 (
 	name:		"wslib-nogui",
 	path:			"wslib-nogui",
-	summary:		"Same as wslib with GUI removed for embedded sclang"
+	summary:		"Same as wslib with GUI removed for embedded sclang",
 	author:		"Wouter Snoei",
 	version:		0.32,
 	helpdoc:		"wslib-help/wslib.html",
