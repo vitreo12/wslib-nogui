@@ -1,7 +1,7 @@
 (
-	name:		"wslib",
-	path:			"wslib",
-	summary:		"various language additions, GUI classes and more\nMain features: SimpleMIDIFile, SVG, RoundButton, SmoothSlider, AutoBackup",
+	name:		"wslib-nogui",
+	path:			"wslib-nogui",
+	summary:		"Same as wslib with GUI removed for embedded sclang"
 	author:		"Wouter Snoei",
 	version:		0.32,
 	helpdoc:		"wslib-help/wslib.html",
